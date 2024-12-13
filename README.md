@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Claudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-forrest)](https://github.com/c-forrest/github-readme-stats)
+[![Claudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-forrest&show_icons=true&theme=radical)](https://github.com/c-forrest/github-readme-stats)
 
 <!--
 **c-forrest/c-forrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
